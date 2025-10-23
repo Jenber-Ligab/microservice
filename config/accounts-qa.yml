@@ -1,0 +1,11 @@
+build:
+  Version: 2.0
+accounts:
+  message: "Welcome to EazyBank accounts related qa APIs"
+  contactDetails:
+    name: "Jenber - qa assurance"
+    email: "jenber@eazybank.com"
+  onCallSupport:
+    -(666) 555-1234
+    -(666) 523-1345
+
