@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Abebe - implementer"
-    email: "abebe@eazybank.com"
+    email: "{cipher}4c153780a9da407aa8cea87a2ec3846cdd8891c51412d5cf0a9baf1ad6959f3af21d54f214a1fe756eb70ff017d6726e"
   onCallSupport:
     - "(777) 555-1234"
     - "(777) 523-1345"
